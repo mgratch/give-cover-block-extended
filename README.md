@@ -11,7 +11,7 @@ This plugin extends the Cover and Image blocks to dynamically use GiveWP P2P Cam
 ## Installation
 
 To install the plugin, follow these steps:
-1. Download the plugin from the [GitHub repository](https://github.com/mgratch/give-cover-block-extended).
+1. Download the latest release [here](https://github.com/mgratch/give-cover-block-extended/releases/latest/download/give-cover-block-extended.zip).
 2. Extract the contents of the downloaded ZIP file.
 3. Upload the extracted folder to the `wp-content/plugins` directory of your WordPress installation.
 4. Activate the plugin through the WordPress admin panel.
